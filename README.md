@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **CesarSoltero/CesarSoltero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi there! My name es Cesar Soltero 👋</h1>
+<h2 align="center">Mechatronics Engineer | Embedded Systems Developer | Data Enthusiast</h2>
