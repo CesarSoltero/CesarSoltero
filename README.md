@@ -16,4 +16,12 @@ Here are some ideas to get you started:
 <h2 align="center">Mechatronics Engineer 💻 | Embedded Systems Developer 🦾 | Data Enthusiast 📊</h2>
 
 ### 👨‍💻 About Me
-I'm a **Mechatronics Engineer**
+I'm a **Mechatronics Engineer** who loves bringing ideas to life using technology and code 
+
+### 💻 Tech Stack
+
+### 📌 Projects
+
+### 🤝 Let's Connect!
+- ✉ Email: solteroperezcesar@gmail.com
+- 💼 [LinkedIn]: (https://www.linkedin.com/in/cesarsolteroperez)
