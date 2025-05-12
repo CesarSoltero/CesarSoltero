@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there! My name es Cesar Soltero 👋</h1>
-<h2 align="center">Mechatronics Engineer | Embedded Systems Developer | Data Enthusiast</h2>
+<h2 align="center">Mechatronics Engineer 💻 | Embedded Systems Developer 🦾 | Data Enthusiast 📊</h2>
+
+### 👨‍💻 About Me
+I'm a **Mechatronics Engineer**
