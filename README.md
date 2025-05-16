@@ -24,7 +24,7 @@ I'm a **Mechatronics Engineer** who loves bringing ideas to life using technolog
 
 | Project | What it does | Tech |
 |--------|--------------|------|
-| 🟦 🟥 **Rubik's Cube Robot** 🟨 🟩 | A robot that solves the Rubik's Cube. Assisted with Artificial Vision 🤖 | STM32, C, Python, OpenCV |
+| 🟦 **Rubik's Cube Robot** 🟩 | A robot that solves the Rubik's Cube. Assisted with Artificial Vision 🤖 | STM32, C, Python, OpenCV |
 | **📡 Social Network Simulator** | A console-based app where users interact like on a real social network 👥 | Python |
 
 ### 🤝 Let's Connect!
