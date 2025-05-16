@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 I'm a **Mechatronics Engineer** who loves bringing ideas to life using technology and code 
 
-### 💻 Tech Stack
+<!--### 💻 Tech Stack-->
 
 ### 📌 Projects
 
 | Project | What it does | Tech |
 |--------|--------------|------|
 | 🟦 [**Rubik's Cube Robot**](https://github.com/CesarSoltero/Rubik-Cube-Robot) | A robot that solves the Rubik's Cube. Assisted with Artificial Vision 🤖 | STM32, C, Python, OpenCV |
-| **📡 Social Network Simulator** | A console-based app where users interact like on a real social network 👥 | Python |
-| 🏠 **Home Monitoring Station** | Sensor station that records enviroment parameters and connect with a web server | STM32, C, Python, Ruby, HTML, CSS, JS |
+| **📡 Social Network Simulator [PENDING]** | A console-based app where users interact like on a real social network 👥 | Python |
+| 🏠 **Home Monitoring Station [PENDING]** | Sensor station that records enviroment parameters and connect with a web server | STM32, C, Python, Ruby, HTML, CSS, JS |
 
 ### 🤝 Let's Connect!
 - ✉ Email: solteroperezcesar@gmail.com
