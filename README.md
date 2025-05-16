@@ -22,6 +22,10 @@ I'm a **Mechatronics Engineer** who loves bringing ideas to life using technolog
 
 ### 📌 Projects
 
+| Project | What it does | Tech |
+|--------|--------------|------|
+| ** 🟦 🟥 Rubik's Cube Robot 🟨 🟩** | A robot that solves the Rubik's Cube. Assisted with Artificial Vision 🤖 | STM32, C, Python, OpenCV |
+
 ### 🤝 Let's Connect!
 - ✉ Email: solteroperezcesar@gmail.com
 - 💼 [LinkedIn]: (https://www.linkedin.com/in/cesarsolteroperez)
